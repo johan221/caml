@@ -1,2 +1,2 @@
 # caml
-Repo del profe
+Repo del profes
